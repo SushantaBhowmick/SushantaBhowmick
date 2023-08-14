@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on [Ecommerce-webapp](its not deploy-yet)
+- 👯 I’m looking to collaborate on [any MERN Stack project](open-source)
 
 - 💬 Ask me about **MERN (MongoDB,Express.js, React.js, Node.js)**
 
