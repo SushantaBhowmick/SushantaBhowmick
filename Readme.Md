@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sushant31147320" target="blank"><img src="https://img.shields.io/twitter/follow/sushant31147320?logo=twitter&style=for-the-badge" alt="sushant31147320" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-webapp](its not deploy-yet)
+- 🔭 I’m currently working on [Ecommerce-webapp](its has deployed -https://64dab98ca8668a0077f2a5ef--lustrous-queijadas-71f3bf.netlify.app/)
 
 - 🌱 I’m currently learning **MERN stack**
 
