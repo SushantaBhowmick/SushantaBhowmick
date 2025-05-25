@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhosushanta922@gmail.com**
 
-- ⚡ Fun fact **I think, i am nothing if google is not in my life, its not for me its happend for every software developer...**
+- ⚡ Fun fact **...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
