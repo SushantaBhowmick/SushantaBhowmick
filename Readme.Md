@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantabhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="sushantabhowmick" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushantabhowmick" alt="sushantabhowmick" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sushantabhowmick" alt="sushantabhowmick" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sushant31147320" target="blank"><img src="https://img.shields.io/twitter/follow/sushant31147320?logo=twitter&style=for-the-badge" alt="sushant31147320" /></a> </p>
 
