@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Ecommerce-webapp](it has deployed -https://64dab98ca8668a0077f2a5ef--lustrous-queijadas-71f3bf.netlify.app/)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MCP SERVER**
 
-- 👯 I’m looking to collaborate on [any MERN Stack project](open-source)
+- 👯 I’m looking to collaborate on [any AI project](open-source)
 
 - 💬 Ask me about **MERN (MongoDB,Express.js, React.js, Node.js)**
 
